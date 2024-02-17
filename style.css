@@ -1,0 +1,23 @@
+*{
+    background-color: aquamarine;
+}
+.img{
+    height: 50%;
+    border-radius: 5%;
+    object-fit: cover;
+    border-width: 10px;
+    border-color: rgb(247, 96, 121);
+    border-style: solid;
+}
+
+.pwebsite{
+    display: flex;
+    align-items: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.pwebsite-resume{
+    padding: 15px;
+    color: yellow;
+    background-color: orangered;
+}
